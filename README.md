@@ -1,1 +1,4 @@
-I build tools and platforms that make complex work faster, safer, and more reproducible.
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chukwuka-orefo&layout=compact&hide_border=true" />
+</p>
+
